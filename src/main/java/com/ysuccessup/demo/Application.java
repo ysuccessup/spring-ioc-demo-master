@@ -5,7 +5,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * @author ysuccessup
- * @date 2019/3/17
+ * @date 2019/3/17...
  */
 public class Application {
     public static void main(String[] args) {
