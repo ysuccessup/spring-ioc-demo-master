@@ -2,7 +2,7 @@ package com.ysuccessup.demo;
 
 /**
  * @author ysuccessup
- * @date 2018/9/6
+ * @date 2019/3/17
  */
 public interface TestBeanService {
     String getBean();
